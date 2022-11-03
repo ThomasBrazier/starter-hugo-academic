@@ -43,7 +43,7 @@ education:
       institution: University of Rennes 1
       year: 2019
     - course: BSc in Life Sciences and Biology of Organisms
-      institution: Pierre and Marie Curie University Paris 6 and Aix-Marseille University
+      institution: Pierre and Marie Curie Paris 6 University and Aix-Marseille University
       year: 2017
 superuser: true
 last_name: Bighetti
