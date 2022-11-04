@@ -29,7 +29,7 @@ abstract: During meiosis, crossover rates are not randomly distributed along the
   evolution of recombination rates but also on their distribution along
   chromosomes.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
