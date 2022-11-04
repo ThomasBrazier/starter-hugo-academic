@@ -1,6 +1,6 @@
 ---
 title: Drivers of longitudinal telomere dynamics in the long‐lived bat species,
-  *Myotis myotis*
+  Myotis myotis
 publication_types:
   - "2"
 authors:
