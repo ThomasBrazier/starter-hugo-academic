@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/static/uploads/Coursera_NeuralNets.pdf
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_NeuralNets.pdf
     date_end: '2021-07-21'
     date_start: '2021-06-01'
     description: '97% of success'
@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: https://coursera.org/share/52437f173a7eabed748ee290482d7ad9
-  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/static/uploads/Coursera_ImprovingDeepLearning.pdf
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_ImprovingDeepLearning.pdf
     date_end: '2022-04-01'
     date_start: '2022-02-01'
     description: '99% of success'
@@ -39,7 +39,7 @@ item:
     organization_url: https://www.coursera.org
     title: Improving Deep Neural Networks
     url: 'https://coursera.org/share/cb0624d6cd2229d1f6a986ad958d9cd4'
-  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/static/uploads/fun_ethics.pdf
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/fun_ethics.pdf
     date_end: '2020-11-05'
     date_start: '2020-10-01'
     description: '96% of success'
@@ -47,7 +47,7 @@ item:
     organization_url: https://www.fun-mooc.fr
     title: Research Ethics
     url: https://lms.fun-mooc.fr/courses/course-v1:universite-lyon+91001+session05/info
-  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/static/uploads/fun_Python.pdf
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/fun_Python.pdf
     date_end: '2020-12-09'
     date_start: '2020-10-01'
     description: '99% of success'
