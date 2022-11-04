@@ -38,7 +38,7 @@ feature:
     name: Docker
   - description: Initiated
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: Emacs
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
