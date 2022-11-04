@@ -1,5 +1,5 @@
 ---
-avatar_filename: arctique-043__201011-chu-_vma7462.jpg
+avatar_filename: ""
 bio: My current research interests include population genomics, meiotic
   recombination and bioinformatics.
 interests:
