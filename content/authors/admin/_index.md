@@ -49,11 +49,11 @@ education:
       institution: Pierre and Marie Curie Paris 6 University and Aix-Marseille University
       year: 2017
 superuser: true
-last_name: Bighetti
+last_name: Brazier
 role: PhD Student in Genomic and Evolution
 highlight_name: true
 title: Thomas Brazier
-first_name: Alice
+first_name: Thomas
 email: ""
 ---
 I have a background in bioinformatics and population genetics with a strong curiosity for computing science and data science (I regularly complete MOOCs on these topics). With an academic formation in modelling in ecology and evolution, I currently study evolution, genomics and population genetics.
