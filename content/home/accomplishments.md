@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.coursera.org
     date_end: '2021-07-21'
-    date_start: ''
+    date_start: '2021-06-01'
     description: '97% of success'
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -33,7 +33,7 @@ item:
     url: https://coursera.org/share/52437f173a7eabed748ee290482d7ad9
   - certificate_url: https://www.coursera.org
     date_end: '2022-04-01'
-    date_start: ''
+    date_start: '2022-02-01'
     description: '99% of success'
     organization: Coursera
     organization_url: https://www.coursera.org
@@ -41,7 +41,7 @@ item:
     url: 'https://coursera.org/share/cb0624d6cd2229d1f6a986ad958d9cd4'
   - certificate_url: https://www.fun-mooc.fr
     date_end: '2020-11-05'
-    date_start: ''
+    date_start: '2020-10-01'
     description: '96% of success'
     organization: FUN-MOOC
     organization_url: https://www.fun-mooc.fr
@@ -49,7 +49,7 @@ item:
     url: https://lms.fun-mooc.fr/courses/course-v1:universite-lyon+91001+session05/info
   - certificate_url: https://www.fun-mooc.fr
     date_end: '2022-07-07'
-    date_start: ''
+    date_start: '2022-05-01'
     description: '99% of success'
     organization: FUN-MOOC
     organization_url: https://www.fun-mooc.fr
