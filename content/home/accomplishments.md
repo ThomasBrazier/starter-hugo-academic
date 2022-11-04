@@ -24,30 +24,38 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
-    description: ''
+    date_end: '2021-07-21'
+    date_start: ''
+    description: '97% of success'
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
-
+    url: https://coursera.org/share/52437f173a7eabed748ee290482d7ad9
+  - certificate_url: https://www.coursera.org
+    date_end: '2022-04-01'
+    date_start: ''
+    description: '99% of success'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    url: 'https://coursera.org/share/cb0624d6cd2229d1f6a986ad958d9cd4'
+  - certificate_url: https://www.fun-mooc.fr
+    date_end: '2020-11-05'
+    date_start: ''
+    description: '96% of success'
+    organization: FUN-MOOC
+    organization_url: https://www.fun-mooc.fr
+    title: Research Ethics
+    url: https://lms.fun-mooc.fr/courses/course-v1:universite-lyon+91001+session05/info
+  - certificate_url: https://www.fun-mooc.fr
+    date_end: '2022-07-07'
+    date_start: ''
+    description: '99% of success'
+    organization: FUN-MOOC
+    organization_url: https://www.fun-mooc.fr
+    title: Python from fundamentals to advanced concepts
+    url: https://lms.fun-mooc.fr/courses/course-v1:UCA+107001+session02/courseware/39f73ecca8274b48b5edc06d00ab259c
+  
 design:
   columns: '2'
 ---
