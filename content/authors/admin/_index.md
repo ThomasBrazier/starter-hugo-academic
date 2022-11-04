@@ -1,11 +1,12 @@
 ---
+avatar_filename: tbrazier.jpg
 bio: My current research interests include population genomics, meiotic
   recombination and bioinformatics.
 interests:
-  - Statistics
-  - Machine Learning & Artificial Intelligence
   - Bioinformatics
   - Population Genomics
+  - Statistics
+  - Machine Learning & Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
@@ -39,10 +40,12 @@ education:
     - course: PhD in Ecology & Evolution
       institution: University of Rennes 1
       year: 2022
-    - course: Master's Degree in Ecology and Modelling for Ecology
+    - course: Master's Degree in Ecology & Evolution with a major in Modelling, with
+        honors, first of the year
       institution: University of Rennes 1
       year: 2019
-    - course: BSc in Life Sciences and Biology of Organisms
+    - course: BSc in Life Sciences and Biology of Organisms, with honors, first of the
+        year
       institution: Pierre and Marie Curie Paris 6 University and Aix-Marseille University
       year: 2017
 superuser: true
@@ -53,6 +56,8 @@ title: Thomas Brazier
 first_name: Alice
 email: ""
 ---
-With a background in population genetics, I'm fascinated by the many processes at the origins of genetic diversity. I have a special interest for those involved by the meiotic recombination in my most recent researches. Currently, I'm working on a PhD with Sylvain Glémin (ECOBIO lab) at Rennes 1 University (France) on the estimation of the local recombination rate along the genome for a large panel of Angiosperm species.
+I have a background in bioinformatics and population genetics with a strong curiosity for computing science and data science (I regularly complete MOOCs on these topics). With an academic formation in modelling in ecology and evolution, I currently study evolution, genomics and population genetics.
+
+I aim to develop and apply machine learning and deep learning skills to the field of population genomics in order to study the processes at the origin of genetic diversity in species and populations. Amongst these processes, my current academic research is focused on meiotic recombination with a genomic comparative approach. I am finishing my PhD with Sylvain Glémin (ECOBIO lab) at Rennes 1 University (France).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
