@@ -6,12 +6,13 @@ publication_types:
   - "2"
 authors:
   - admin
-  - EmiraCherifJean-FrançoisMartin
-  - AndréGilles
-  - SimonBlanchet
-  - YahuiZhao
-  - MarineCombe
-  - R.J.ScottMcCairns
+  - Emira Cherif
+  - Jean-François Martin
+  - André Gilles
+  - Simon Blanchet
+  - Yahui Zhao
+  - Marine Combe
+  - R.J. Scott McCairns
 doi: 10.1007/s10530-022-02787-6
 publication: Biological Invasions
 draft: false
