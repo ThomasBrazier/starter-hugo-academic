@@ -37,7 +37,7 @@ item:
     description: '99% of success'
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+    title: 'Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization'
     url: 'https://coursera.org/share/cb0624d6cd2229d1f6a986ad958d9cd4'
   - certificate_url: https://www.fun-mooc.fr
     date_end: '2020-11-05'
