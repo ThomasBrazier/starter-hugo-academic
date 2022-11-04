@@ -5,7 +5,7 @@ abstract: The 2021 Evolution Conference was held virtually from June 21-25,
   the American Society of Naturalists (ASN).
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: The 2021 Evolution Conference.
 date_end: 2021-06-25T09:19:20.461Z
 event_url: https://www.aws3.evolutionsociety.org/news/display/2021/8/17/access-virtual-evolution-2021-videos/
 authors: []
@@ -13,12 +13,6 @@ url_video: ""
 date: 2021-06-21T09:19:08.986Z
 featured: false
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
 title: Evolution 2021
 location: Virtual
 links: []
