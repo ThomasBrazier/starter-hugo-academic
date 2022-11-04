@@ -34,7 +34,7 @@ experience:
         Responsibilities include:
         
         * Data Analysis
-	* Bioinformatics
+        * Bioinformatics
         * Scientific Writing
 
   - title: Master Student
