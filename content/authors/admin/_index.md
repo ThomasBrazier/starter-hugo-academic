@@ -31,7 +31,7 @@ social:
     link: https://github.com/ThomasBrazier
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/thomas-brazier-0b2108256/
 organizations:
   - name: University of Rennes 1 - ECOBIO Lab
     url: https://ecobio.univ-rennes1.fr/
