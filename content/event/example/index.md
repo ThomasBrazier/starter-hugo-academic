@@ -27,7 +27,7 @@ publishDate: 2021-06-24T23:00:00.000Z
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
   focal_point: Right
 url_code: ""
 all_day: false
