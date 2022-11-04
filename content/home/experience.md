@@ -22,28 +22,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Student
+    company: University of Rennes 1
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: graduation-cap
+    icon_pack: fas
+    location: Rennes, France
+    date_start: '2019-10-01'
+    date_end: '2022-10-25'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Data Analysis
+	* Bioinformatics
+        * Scientific Writing
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Master Student
+    company: INRAE
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: graduation-cap
+    icon_pack: fas
+    location: Rennes
+    date_start: '2019-01-05'
+    date_end: '2019-06-30'
+    description: A population genetic approach to study the biological invasion by the topmouth gudgeon fish.
+
+  - title: Master Student
+    company: INRAE
+    company_url: ''
+    company_logo: graduation-cap
+    icon_pack: fas
+    location: Rennes
+    date_start: '2018-04-01'
+    date_end: '2018-07-31'
+    description: Genetic-based dispersal distances in a small flying mammal, the lesser horseshoe bat.
+
+  - title: Grip & Key Grip
+    company: Movies and TV Shows
+    company_url: ''
+    company_logo: camera-movie
+    icon_pack: fas
+    location: France
+    date_start: '2010-06-01'
+    date_end: '2017-12-31'
+    description: Making movies.
 
 design:
   columns: '2'
