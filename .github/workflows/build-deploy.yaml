@@ -17,10 +17,11 @@ jobs:
         submodules: true
 
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
+      uses: ThomasBrazier/hugo-deploy-gh-pages@master
       env:
-        HUGO_VERSION: 0.68.3
+        HUGO_VERSION: 0.88.0
         TARGET_REPO: ThomasBrazier/thomasbrazier.github.io
         TOKEN: ${{ secrets.TOKEN }}
+        HUGO_ARGS: '-t academic'
         CNAME: www.thomasbrazier.github.io
 
