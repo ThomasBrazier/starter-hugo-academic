@@ -21,6 +21,7 @@ jobs:
       env:
         HUGO_VERSION: 0.105.0
         HUGO_EXTENDED: true
+        GO_VERSION: 1.19.3
         TARGET_REPO: ThomasBrazier/thomasbrazier.github.io
         TOKEN: ${{ secrets.TOKEN }}
         HUGO_ARGS: '-t academic'
