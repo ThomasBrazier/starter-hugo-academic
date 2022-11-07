@@ -24,6 +24,5 @@ jobs:
         GO_VERSION: 1.19.3
         TARGET_REPO: ThomasBrazier/thomasbrazier.github.io
         TOKEN: ${{ secrets.TOKEN }}
-        HUGO_ARGS: '-t academic'
         CNAME: www.thomasbrazier.github.io
 
