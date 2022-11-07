@@ -19,7 +19,8 @@ jobs:
     - name: Hugo Deploy GitHub Pages
       uses:  benmatselby/hugo-deploy-gh-pages@main
       env:
-        HUGO_VERSION: extended_0.105.0
+        HUGO_VERSION: 0.105.0
+        HUGO_EXTENDED: true
         TARGET_REPO: ThomasBrazier/thomasbrazier.github.io
         TOKEN: ${{ secrets.TOKEN }}
         HUGO_ARGS: '-t academic'
