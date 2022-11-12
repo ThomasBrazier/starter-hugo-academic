@@ -5,7 +5,6 @@ active: false
 headless: true
 weight: 80
 title: Publications
-active: true
 design:
   columns: "2"
   background:
