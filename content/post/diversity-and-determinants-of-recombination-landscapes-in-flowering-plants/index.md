@@ -1,5 +1,6 @@
 ---
-title: Diversity and determinants of recombination landscapes in flowering plants
+title: "New publication: Diversity and determinants of recombination landscapes
+  in flowering plants"
 subtitle: Recombination landscapes in plants
 date: 2022-11-12T13:14:06.043Z
 draft: false
