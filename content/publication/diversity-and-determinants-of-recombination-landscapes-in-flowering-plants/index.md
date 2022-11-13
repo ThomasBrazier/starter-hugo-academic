@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
   - Sylvain Glémin
-doi: https://dx.plos.org/10.1371/journal.pgen.1010141
+doi: https://doi.org/10.1371/journal.pgen.1010141
 publication: PLOS Genetics
 abstract: During meiosis, crossover rates are not randomly distributed along the
   chromosome and their location may have a strong impact on the functioning and
