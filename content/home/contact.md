@@ -16,24 +16,24 @@ content:
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+    #provider: netlify
+    #formspree:
+    #  id:
+    #netlify:
+    #  # Enable CAPTCHA challenge to reduce spam?
+    #  captcha: false
 
   # Contact details (edit or remove options as required)
-  email: brazier.thomas@gmail.com
+  email: thomas.brazier@univ-rennes.fr
   #phone: 888 888 88 88
-  #address:
-    #street: 450 Serra Mall
-    #city: Stanford
-    #region: CA
-    #postcode: '94305'
-    #country: United States
-    #country_code: US
+  address:
+    street: Building 14, Beaulieu Campus
+    city: Rennes
+    region: Brittany
+    postcode: '35000'
+    country: France
+    country_code: FR
   #coordinates:
     #latitude: '37.4275'
     #longitude: '-122.1697'
@@ -42,11 +42,11 @@ content:
     #- 'Monday 10:00 to 13:00'
     #- 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
-  contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/BrazierThomasR'
+  #contact_links:
+    #- icon: twitter
+    #  icon_pack: fab
+    #  name: DM Me
+    #  link: 'https://twitter.com/BrazierThomasR'
     #- icon: video
       #icon_pack: fas
       #name: Zoom Me
