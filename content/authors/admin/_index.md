@@ -1,7 +1,7 @@
 ---
 avatar_filename: ""
 bio: My current research interests span a broad range of molecular and population genetic processes, involving the study of evolutionary patterns at the scale of genomes, species, and populations. It includes the causes and consequences of meiotic recombination, the evolution of gene expression and genome structural variation among populations and species.
-interests:
+skills:
   - Bioinformatics
   - Population Genomics
   - Statistics
