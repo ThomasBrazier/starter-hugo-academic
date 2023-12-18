@@ -23,12 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Post-Doc
-    company: CNRS/University of Rennes 1
+    company: CNRS
     company_url: ''
     company_logo: ''
     location: Rennes, France
     date_start: '2022-11-01'
-    date_end: ''
     description: |2-
         Evolution of cis-regulatory regions and gene expression in diploid species: probing the runaway process.
         
