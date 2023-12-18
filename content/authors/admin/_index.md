@@ -10,21 +10,21 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/BrazierThomasR
-    label: Follow me on Twitter
+    link: https://ecoevo.social/@thomasbrazier
+    label: Follow me on Mastodon
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=fr&user=iMW4DGQAAAAJ
   - display:
       header: false
     link: "https://orcid.org/0000-0001-5990-7545 "
-    icon: graduation-cap
+    icon: orcid
     label: ORCID
-    icon_pack: fas
+    icon_pack: fab
   - icon: github
     icon_pack: fab
     link: https://github.com/ThomasBrazier
