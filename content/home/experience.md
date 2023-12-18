@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Post-Doc
+    company: CNRS/University of Rennes 1
+    company_url: ''
+    company_logo: ''
+    location: Rennes, France
+    date_start: '2022-11-01'
+    date_end: '2024-07-01'
+    description: |2-
+        Evolution of cis-regulatory regions and gene expression in diploid species: probing the runaway process.
+        
+        * RNA-seq
+        * Allele-specific expression
+        * Purging of deleterious mutations
+        * Signatures of selection
+
+experience:
   - title: PhD Student
     company: University of Rennes 1
     company_url: ''
@@ -30,6 +46,14 @@ experience:
     date_start: '2019-10-01'
     date_end: '2022-10-25'
     description: |2-
+        Recombination landscapes and genome evolution in Angiosperms
+
+        * Comparative genomics
+        * Meiosis and crossovers
+        * Genetic shuffling
+        * Linkage disequilibrium
+        * GC giased gene conversion
+        
         Responsibilities include:
         
         * Data Analysis

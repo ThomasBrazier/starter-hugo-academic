@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Advanced
+    icon: dna
+    icon_pack: fab
+    name: Bio-informatic
+  - description: Advanced
     icon: r-project
     icon_pack: fab
     name: R
