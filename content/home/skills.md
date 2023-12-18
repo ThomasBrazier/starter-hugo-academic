@@ -17,33 +17,41 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Advanced
-    icon: dna
-    icon_pack: fab
+    icon: server
+    icon_pack: far
     name: Bio-informatic
   - description: Advanced
-    icon: r-project
-    icon_pack: fab
-    name: R
+    icon: dna
+    icon_pack: far
+    name: Population genomics
+  - description: Advanced
+    icon: laptop-code
+    icon_pack: far
+    name: Scientific writing
   - description: Advanced
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: Regular
-    icon: python
-    icon_pack: fab
-    name: Python
+  - description: Initiated
+    icon: code
+    icon_pack: fas
+    name: Machine Learning
   - description: Regular
     icon: linux
     icon_pack: fab
     name: Linux
+  - description: Advanced
+    icon: r-project
+    icon_pack: fab
+    name: R
+  - description: Regular
+    icon: python
+    icon_pack: fab
+    name: Python
   - description: Initiated
     icon: docker
     icon_pack: fab
     name: Docker
-  - description: Initiated
-    icon: code
-    icon_pack: fas
-    name: Emacs
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
