@@ -36,7 +36,6 @@ experience:
         * Purging of deleterious mutations
         * Signatures of selection
 
-experience:
   - title: PhD Student
     company: University of Rennes 1
     company_url: ''
