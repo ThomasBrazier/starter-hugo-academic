@@ -1,11 +1,11 @@
 ---
 avatar_filename: ""
 bio: My current research interests span a broad range of molecular and population genetic processes, involving the study of evolutionary patterns at the scale of genomes, species, and populations. It includes the causes and consequences of meiotic recombination, the evolution of gene expression and genome structural variation among populations and species.
-skills:
-  - Bioinformatics
-  - Population Genomics
-  - Statistics
-  - Machine Learning & Artificial Intelligence
+interests:
+  - meiotic recombination and genetic shuffling
+  - genomic patterns of genetic diversity
+  - evolution of gene expression
+  - genomic structural variation
 social:
   - icon: envelope
     icon_pack: fas
@@ -56,11 +56,5 @@ first_name: Thomas
 email: ""
 ---
 I am an evolutionary biologist broadly interested in the evolution of genome structure and broad-scale patterns of genetic diversity. I primarily use large genomic datasets (based on already published studies) to re-analyse them in a novel comparative genomic framework and discover global patterns of molecular evolution. I use meta-analytic approaches and advanced statistics to describe and quantify the diversity and determinants of evolutionary processes (e.g. recombination) among a large set of species. I find it very interesting to study evolution at many levels of organisation, including genes, genomes, populations and species, and I tend to favor integrative approaches to reconcile these different levels of organisation under a more common model (e.g. how patterns at the scale of genes could influence global genome evolution).
-
-My research interests include:
-* meiotic recombination and genetic shuffling
-* genomic patterns of genetic diversity
-* evolution of gene expression
-* genomic structural variation
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
