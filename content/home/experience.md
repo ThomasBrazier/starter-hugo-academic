@@ -29,7 +29,7 @@ experience:
     location: Rennes, France
     date_start: '2022-11-01'
     description: |2-
-        Evolution of cis-regulatory regions and gene expression in diploid species: probing the runaway process.
+        Evolution of cis-regulatory regions and gene expression in diploid species
         
         * RNA-seq
         * Allele-specific expression
