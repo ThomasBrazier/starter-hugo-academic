@@ -1,7 +1,6 @@
 ---
 avatar_filename: ""
-bio: My current research interests include population genomics, meiotic
-  recombination and bioinformatics.
+bio: My current research interests span a broad range of molecular and population genetic processes, involving the study of evolutionary patterns at the scale of genomes, species, and populations. It includes the causes and consequences of meiotic recombination, the evolution of gene expression and genome structural variation among populations and species.
 interests:
   - Bioinformatics
   - Population Genomics
@@ -33,7 +32,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/thomas-brazier-0b2108256/
 organizations:
-  - name: University of Rennes 1 - ECOBIO Lab
+  - name: University of Rennes 1 - ECOBIO Lab UMR 6553
     url: https://ecobio.univ-rennes1.fr/
 education:
   courses:
@@ -50,14 +49,19 @@ education:
       year: 2017
 superuser: true
 last_name: Brazier
-role: PhD Student in Genomic and Evolution
+role: Post-doc in Genomic and Evolution
 highlight_name: true
 title: Thomas Brazier
 first_name: Thomas
 email: ""
 ---
-I have a background in bioinformatics and population genetics with a strong curiosity for computing science and data science (I regularly complete MOOCs on these topics). With an academic formation in modelling in ecology and evolution, I currently study evolution, genomics and population genetics.
+I am an evolutionary biologist broadly interested in the evolution of genome structure and broad-scale patterns of genetic diversity. I primarily use large genomic datasets (based on already published studies) to re-analyse them in a novel comparative genomic framework and discover global patterns of molecular evolution. I use meta-analytic approaches and advanced statistics to describe and quantify the diversity and determinants of evolutionary processes (e.g. recombination) among a large set of species. I find it very interesting to study evolution at many levels of organisation, including genes, genomes, populations and species, and I tend to favor integrative approaches to reconcile these different levels of organisation under a more common model (e.g. how patterns at the scale of genes could influence global genome evolution).
 
-I aim to develop and apply machine learning and deep learning skills to the field of population genomics in order to study the processes at the origin of genetic diversity in species and populations. Amongst these processes, my current academic research is focused on meiotic recombination with a genomic comparative approach. I am finishing my PhD with Sylvain Glémin (ECOBIO lab) at Rennes 1 University (France).
+My research interests include:
+
+    meiotic recombination and genetic shuffling
+    genomic patterns of genetic diversity
+    evolution of gene expression
+    genomic structural variation
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
