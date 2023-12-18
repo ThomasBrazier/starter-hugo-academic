@@ -18,15 +18,15 @@ subtitle:
 feature:
   - description: Advanced
     icon: server
-    icon_pack: far
+    icon_pack: fas
     name: Bio-informatic
   - description: Advanced
     icon: dna
-    icon_pack: far
+    icon_pack: fas
     name: Population genomics
   - description: Advanced
     icon: laptop-code
-    icon_pack: far
+    icon_pack: fas
     name: Scientific writing
   - description: Advanced
     icon: chart-line
