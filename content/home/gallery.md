@@ -2,7 +2,7 @@
 widget: markdown
 widget_id: readings
 headless: true
-weight: 66
+weight: 90
 title: Readings
 subtitle: null
 design:

@@ -87,6 +87,34 @@ experience:
     date_end: '2017-12-31'
     description: Making movies.
 
+  - title: Master of Cinema - Specialization in Image Shooting
+    company: Ecole Nationale Supérieure Louis Lumière
+    company_url: 'https://www.ens-louis-lumiere.fr/'
+    company_logo: ''
+    location: France
+    date_start: '2007-09-01'
+    date_end: '2010-07-30'
+    description: A great public school dedicated to cinema, photography and sound.
+
+  - title: Bachelor Degree of Art and Cinema
+    company: University of Paris X - Nanterre
+    company_url: 'https://www.parisnanterre.fr/'
+    company_logo: ''
+    location: France
+    date_start: '2004-09-01'
+    date_end: '2007-07-31'
+    description: This degree provides theoretical, historical, and practical instruction as an introduction to the history of the performing arts, particularly theater and other performing arts, cinema, and audiovisual arts, as well as to current artistic approaches in these two fields.
+
+  - title: High School Diploma in Science - option Physics and Informatics
+    company: Lycée Prieur de la Côte d'Or - Auxonne
+    company_url: ''
+    company_logo: ''
+    location: France
+    date_start: '2001-07-01'
+    date_end: '2004-07-31'
+    description:
+
+
 design:
   columns: '2'
 ---
