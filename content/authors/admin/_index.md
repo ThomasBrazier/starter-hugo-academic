@@ -61,4 +61,4 @@ Though I am still a young researcher (PhD defended in late 2022), I was rapidly 
 
 Alternatively, I am also involved in the development of bio-informatic pipelines as well as modern statistical methods for population genomics, especially Artificial Intelligence. As Deep Learning is getting more and more applications, I believe it is a powerful versatile approach for population genomics. Deep Learning, especially Neural Networks, has proven to be "unreasonably effective" for inferences and predictions on large scale genomic data and almost any problem can be adressed successfuly with Neural Networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
