@@ -50,7 +50,7 @@ experience:
         * Meiosis and crossovers
         * Genetic shuffling
         * Linkage disequilibrium
-        * GC giased gene conversion
+        * GC biased gene conversion
         
         Responsibilities include:
         

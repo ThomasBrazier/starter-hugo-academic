@@ -36,7 +36,7 @@ feature:
     icon: code
     icon_pack: fas
     name: Machine Learning
-  - description: Regular
+  - description: Initiated
     icon: linux
     icon_pack: fab
     name: Linux
@@ -44,7 +44,7 @@ feature:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: Regular
+  - description: Initiated
     icon: python
     icon_pack: fab
     name: Python
