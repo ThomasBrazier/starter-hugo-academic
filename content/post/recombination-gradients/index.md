@@ -9,4 +9,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-My [preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571209v1) is now published in [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msae183).
+This [preprint](https://www.biorxiv.org/content/10.1101/2023.12.12.571209v1) is now published in [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msae183).
