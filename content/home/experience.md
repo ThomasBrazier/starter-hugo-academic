@@ -27,7 +27,24 @@ experience:
     company_url: ''
     company_logo: ''
     location: Rennes, France
+    date_start: '2024-08-01'
+    description: |2-
+        Structural Variation & genetic diversity (macro-scale): How variable and how similar are
+        structural diversity and evolutionary patterns driven by SVs across the tree of life, and why?
+        
+        * Variant calling
+        * Structural variation
+        * Genetic diversity
+        * Macro evolution
+        * Population size
+
+  - title: Post Doc
+    company: CNRS
+    company_url: ''
+    company_logo: ''
+    location: Rennes, France
     date_start: '2022-11-01'
+    date_end: '2024-07-31'
     description: |2-
         Evolution of cis-regulatory regions and gene expression in diploid species
         
