@@ -1,5 +1,5 @@
 ---
-title: "New preprint: The geometry of gametic dispersal in a flying mammal, *Rhinolophus hipposideros*"
+title: "New preprint: The geometry of gametic dispersal in a flying mammal, Rhinolophus hipposideros"
 subtitle: Mating dispersal in the lesser horseshoe bat
 date: 2024-10-27T13:14:06.043Z
 draft: false
