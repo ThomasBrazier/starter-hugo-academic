@@ -1,6 +1,6 @@
 ---
 title: "Funded research projects"
-subtitle: ""
+subtitle: "A list of the different research projects I was involved in."
 date: 2025-02-18T13:14:06.043Z
 draft: false
 featured: false
