@@ -26,6 +26,7 @@ item:
   - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/deeplearning_agentic_ai.png
     date_end: '2026-01-18'
     date_start: '2026-01-18'
+    description: ''
     organization: DeepLearning.ai
     organization_url: https://learn.deeplearning.ai
     title: Agentic AI
@@ -33,6 +34,8 @@ item:
   
   - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_Deep_Learning.pdf
     date_end: '2021-07-13'
+    date_start: '2021-07-13'
+    description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: Deep Learning Specialization
@@ -40,6 +43,8 @@ item:
   
   - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_Tensorflow.pdf
     date_end: '2024-02-02'
+    date_start: '2024-02-02'
+    description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
     title: TensorFlow 2 for Deep Learning Specialization
