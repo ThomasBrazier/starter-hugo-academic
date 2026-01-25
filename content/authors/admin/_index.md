@@ -2,6 +2,9 @@
 avatar_filename: ""
 bio: My current research interests span a broad range of molecular and population genetic processes, involving the study of patterns of genetic diversity and molecular evolution at the scale of genomes, species, and populations. It includes the causes and consequences of meiotic recombination, the evolution of gene expression and genetic structural variation among populations and species.
 interests:
+  - population genomics inference
+  - quantitative genomics
+  - local adaptation
   - meiotic recombination and genetic shuffling
   - genomic patterns of genetic diversity
   - evolution of gene expression
@@ -69,6 +72,6 @@ My new project/future directions
  -->
 
 
-I am also a continuous learner, very curious and eager to train myself in a broad range of topics and methods in evolutionary genomics. I am involved in the development of bio-informatic pipelines and packages ([sv calling](), [recombination maps]()) as well as the development of modern statistical methods for population genomics, especially Bayesian inference, Machine Learning and Neural Netwrosk. In particular, I am actively developping Bayesian neural networks methods for inference of demographic parameters in an Approximate Baysian Computation framework. As Deep Learning is getting more and more applications in population genomics, I believe it is a powerful versatile approach for inferences and predictions on large scale genomic data with complex underlying models and non-linear relationships in high-dimension datasets.
+I am also a continuous learner, very curious and eager to train myself in a broad range of topics and methods in evolutionary genomics. I am involved in the development of bio-informatic pipelines and packages ([sv calling](https://github.com/ThomasBrazier/evolsv), [recombination maps](https://github.com/ThomasBrazier/ldhat-snakemake-pipeline)) as well as the development of modern statistical methods for population genomics, especially Bayesian inference, Machine Learning and Neural Networks ([ABC + Bayesian Neural Networks](https://github.com/ThomasBrazier/abcneuralnet)). In particular, I am actively developping Bayesian neural networks methods for inference of demographic parameters in an Approximate Baysian Computation framework. Deep Learning is getting more and more attention in population genomics, and I believe it is a powerful versatile approach for inferences and predictions on large scale genomic data with complex underlying models and non-linear relationships in high-dimension datasets.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}

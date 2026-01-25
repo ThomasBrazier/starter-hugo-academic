@@ -23,6 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/deeplearning_agentic_ai.png
+    date_end: '2026-01-18'
+    date_start: '2026-01-18'
+    organization: DeepLearning.ai
+    organization_url: https://learn.deeplearning.ai
+    title: Agentic AI
+    url: https://learn.deeplearning.ai/certificates/0d5c4d62-7370-4cb4-91e9-a4c1cea730c3?usp=sharing
+  
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_Deep_Learning.pdf
+    date_end: '2021-07-13'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Deep Learning Specialization
+    url: https://coursera.org/share/656a68c946be48f23956b1c35c54811e
+  
+  - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_Tensorflow.pdf
+    date_end: '2024-02-02'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: TensorFlow 2 for Deep Learning Specialization
+    url: https://coursera.org/share/5e6f76a1ebd948ac4f5ee56ae1aee4aa
+
   - certificate_url: https://github.com/ThomasBrazier/starter-hugo-academic/blob/main/static/uploads/Coursera_NeuralNets.pdf
     date_end: '2021-07-21'
     date_start: '2021-06-01'
