@@ -20,10 +20,10 @@ feature:
     icon: dna
     icon_pack: fas
     name: Population genomics
-  - description: Drafting and leading new projects, Academic publishing & reviewing, Scientific animation, Oral presentations in  international conferences
+  - description: Analytical thinking, Problem solving, Drafting and leading new projects, Academic publishing & reviewing, Scientific animation, Oral presentations in  international conferences
     icon: laptop-code
     icon_pack: fas
-    name: Scientific writing
+    name: Scientific skills
   - description: Project management, meetings and budgets, supervision (students and teams), applications for funding (e.g. MSCA), teaching (Bsc/Msc level)
     icon: person-chalkboard
     icon_pack: fas
